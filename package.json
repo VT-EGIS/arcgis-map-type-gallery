@@ -7,7 +7,7 @@
   },
   "author": "VT GIS",
   "devDependencies": {
-    "dojo": "1.10.4",
+    "dojo": "1.15.0",
     "grunt": "0.4.5",
     "grunt-contrib-jshint": "0.11.2",
     "grunt-esri-slurp": "1.4.7",
